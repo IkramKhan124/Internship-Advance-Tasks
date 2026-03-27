@@ -20,7 +20,7 @@ Fine-tune a pre-trained BERT transformer model to classify news headlines into o
 
 ---
 
-## Key Results / Observations
+## Observations
 
 - **BERT excels** at this task due to its deep contextual understanding of news language
 - **Sports** category achieves the highest per-class F1 (sports-specific vocabulary is very distinctive)
