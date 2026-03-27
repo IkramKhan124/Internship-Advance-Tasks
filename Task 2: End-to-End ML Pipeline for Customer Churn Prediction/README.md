@@ -27,12 +27,6 @@ Build a reusable, production-grade machine learning pipeline using scikit-learn'
 
 ## Key Results / Observations
 
-| Model | Accuracy | F1-Score | ROC-AUC |
-|-------|----------|----------|---------|
-| Logistic Regression | ~80% | ~57% | ~84% |
-| Random Forest | ~80% | ~56% | ~83% |
-| **RF + GridSearchCV (best)** | **~82%** | **~60%** | **~86%** |
-
 - **Month-to-month contracts** and **short tenure** are the strongest churn predictors
 - Pipeline bundles preprocessing + model — no manual preprocessing needed at inference time
 - `joblib` export allows a 1-line `load()` and `predict()` in any production environment
