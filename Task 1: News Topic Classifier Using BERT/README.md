@@ -22,11 +22,6 @@ Fine-tune a pre-trained BERT transformer model to classify news headlines into o
 
 ## Key Results / Observations
 
-| Metric | Score |
-|--------|-------|
-| Test Accuracy | ~94% |
-| Weighted F1-Score | ~94% |
-
 - **BERT excels** at this task due to its deep contextual understanding of news language
 - **Sports** category achieves the highest per-class F1 (sports-specific vocabulary is very distinctive)
 - **World vs Business** shows the most confusion — economic/political news overlaps
