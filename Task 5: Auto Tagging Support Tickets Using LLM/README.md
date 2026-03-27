@@ -1,4 +1,4 @@
-# 🏷️ Task 5: Auto Tagging Support Tickets Using LLM
+# Task 5: Auto Tagging Support Tickets Using LLM
 
 
 ---
