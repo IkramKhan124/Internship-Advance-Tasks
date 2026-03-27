@@ -25,7 +25,7 @@ Build a reusable, production-grade machine learning pipeline using scikit-learn'
 
 ---
 
-## Key Results / Observations
+##  Observations
 
 - **Month-to-month contracts** and **short tenure** are the strongest churn predictors
 - Pipeline bundles preprocessing + model — no manual preprocessing needed at inference time
